@@ -1,4 +1,4 @@
-.header {
+.header  {
   font-family: monospace;
   background: papayawhip;
   display: flex;
@@ -19,7 +19,7 @@ ul {
   list-style-type: none;
   display: flex;
   gap: 8px;
-}
+} 
 
 a {
   font-size: 22px;
